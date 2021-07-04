@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://donia22:01274009118@docblog.qiyqt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
